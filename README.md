@@ -14,6 +14,6 @@
 
       - The number of nodes doubles at each level.
       - Number of nodes in the last level = (Number of nodes in the previous levels + 1).
-      - Total number of nodes: 2<sup>h</sup>-1, where h = height of binary tree.
+      - Total number of nodes: 2 <sup>h</sup>-1, where h = height of binary tree.
 
 - **Full Binary Tree:** a tree in which every node other than the leaves has two children.
