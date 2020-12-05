@@ -22,7 +22,7 @@
 
 - **Graphs:** has vertices and edges.
 
-- **Types:** (Tip&#128161;: some types also denote difference between trees and graphs.)
+- **Types:** (&#128161; Some types also denote difference between trees and graphs.)
 
   - directed(unidirectional) or undirected.
   - unweighted or weighted.
