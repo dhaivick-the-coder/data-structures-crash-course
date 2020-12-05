@@ -16,4 +16,28 @@
   - **Number of nodes in the last level** = (Number of nodes in the previous levels + 1).
   - **Total number of nodes** = 2<sup>h</sup> - 1, where h = height of binary tree.
 
-- **Full Binary Tree:** a tree in which every node other than the leaves has two children.
+- **Full Binary Tree:** a tree in which every node other than the leaves has exactly zero or two children.
+
+## Graphs
+
+- **Graphs:** has vertices and edges.
+
+- **Types:** (Tip&#128161;: some types also denote difference between trees and graphs.)
+
+  - directed(unidirectional) or undirected.
+  - unweighted or weighted.
+  - cyclic or acyclic.
+
+- **Graph Representations:**
+
+  - edge list
+  - adjacent list
+  - adjacency matrix
+
+- **Pros:**
+
+  - relationships
+
+- **Cons:**
+
+  - hard to scale
