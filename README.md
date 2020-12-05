@@ -86,7 +86,8 @@
   - Fast insert, priority, flexible size, better than O(n).
 
 - **Cons:**
-    - Slow lookup
+
+  - Slow lookup
 
 - **Priority Queues != Queues:**
   - Priority Queues != Queues
